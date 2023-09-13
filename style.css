@@ -1,0 +1,91 @@
+/*
+Theme Name: Starter Theme
+Author: Felix Buhler
+Author URI: https://felix-buhler.de
+Description: Tabula Rasa Theme
+Version: 1.0
+Requires at least: 5.0
+Tested up to: 5.4
+Requires PHP: 7.0
+Text Domain: startertheme
+*/
+
+/* 
+============================================================
+
+Reset
+
+============================================================ 
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+============================================================
+
+Variables 
+
+============================================================ 
+*/
+
+:root {
+    /* Colors */
+    --color-black: #141414;
+
+    /* Fonts */
+    --font-sans: ;
+    --font-serif: ;
+
+    /* Typography */
+    --font-size-base: 16px;
+}
+
+/* 
+============================================================
+
+HTML
+
+============================================================ 
+*/
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+/* 
+============================================================
+
+Typography
+
+============================================================ 
+*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+/* 
+============================================================
+
+Links
+
+============================================================ 
+*/
+
+a {
+    color: currentColor;
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+}
