@@ -12,7 +12,7 @@ function theme_footer()
     <!-- Header JS -->
     <script>
 
-TEST
+
 
     </script>
 <?php

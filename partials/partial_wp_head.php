@@ -12,7 +12,7 @@ function theme_head()
     <!-- Header JS -->
     <script>
 
-TEST
+
 
     </script>
 <?php
